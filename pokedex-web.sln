@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokedex-web", "pokedex-web\pokedex-web.csproj", "{25B5EB5B-7EF7-4339-B58F-04A767CDD0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{91CB17D4-1787-4AAB-A475-A671CA828297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{C4F48168-80B6-4C9D-A283-9A2BD8174778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25B5EB5B-7EF7-4339-B58F-04A767CDD0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B5EB5B-7EF7-4339-B58F-04A767CDD0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B5EB5B-7EF7-4339-B58F-04A767CDD0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B5EB5B-7EF7-4339-B58F-04A767CDD0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CB17D4-1787-4AAB-A475-A671CA828297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CB17D4-1787-4AAB-A475-A671CA828297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CB17D4-1787-4AAB-A475-A671CA828297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CB17D4-1787-4AAB-A475-A671CA828297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F48168-80B6-4C9D-A283-9A2BD8174778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F48168-80B6-4C9D-A283-9A2BD8174778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F48168-80B6-4C9D-A283-9A2BD8174778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F48168-80B6-4C9D-A283-9A2BD8174778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B178BC9F-B64F-4B3C-A011-C900672650F9}
+	EndGlobalSection
+EndGlobal
